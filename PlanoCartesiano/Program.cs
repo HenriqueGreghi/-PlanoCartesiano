@@ -6,15 +6,18 @@ namespace PlanoCartesiano
     {
         static void Main(string[] args)
         {
-            Cartesiano param = new Cartesiano();
+
 
             Console.WriteLine("Entre com a medida do plano cartesiano :");
             string[] valores = Console.ReadLine().Split(' ');
-            param.x = int.Parse(valores[0]);
-            param.y = int.Parse(valores[1]);
+            int x = int.Parse(valores[0]);
+            int y = int.Parse(valores[1]);
+
+            Cartesiano param = new Cartesiano(x,y);
 
             param.Parametros();
-            param.Imprimir();
+            Console.WriteLine(param.Plano);
+            
         }
     }
 }

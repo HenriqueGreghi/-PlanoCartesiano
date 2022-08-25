@@ -6,38 +6,40 @@ namespace PlanoCartesiano
 {
     class Cartesiano
     {
-        public int x { get; set; }
-        public int y { get; set; }
-        private string plano { get; set; }
+        public int X { get; set; }
+        public int Y { get; set; }
+        public string Plano { get; set; }
 
-        public void Parametros()
+        public Cartesiano(int x, int y)
         {
-            if (x > 0 && y > 0)
-            {
-                plano = "Primeiro";
-            }
-            else if (x < 0 && y > 0)
-            {
-                plano = "Segundo";
-            }
-            else if (x < 0 && y < 0)
-            {
-                plano = "Terceiro";
-            }
-            else if (x > 0 && y < 0)
-            {
-                plano = "Quarto";
-            }
-            else
-            {
-
-            }
+            X = x;
+            Y = y;
 
         }
 
-        public void Imprimir()
+        public string Parametros()
         {
-            Console.WriteLine(plano);
+            if (X > 0 && Y > 0)
+            {
+                Plano = "Primeiro";
+            }
+            else if (X < 0 && Y > 0)
+            {
+                Plano = "Segundo";
+            }
+            else if (X < 0 && Y < 0)
+            {
+                Plano = "Terceiro";
+            }
+            else if (X > 0 && Y < 0)
+            {
+                Plano = "Quarto";
+            }
+            return Plano;
+
+            
         }
+
+        
     }
 }
