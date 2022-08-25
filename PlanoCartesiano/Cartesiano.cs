@@ -6,8 +6,8 @@ namespace PlanoCartesiano
 {
     class Cartesiano
     {
-        public int X { get; set; }
-        public int Y { get; set; }
+        private int X { get; set; }
+        private int Y { get; set; }
         public string Plano { get; set; }
 
         public Cartesiano(int x, int y)
@@ -21,21 +21,21 @@ namespace PlanoCartesiano
         {
             if (X > 0 && Y > 0)
             {
-                Plano = "Primeiro";
+               return "Primeiro";
             }
             else if (X < 0 && Y > 0)
             {
-                Plano = "Segundo";
+                return "Segundo";
             }
             else if (X < 0 && Y < 0)
             {
-                Plano = "Terceiro";
+                return "Terceiro";
             }
             else if (X > 0 && Y < 0)
             {
-                Plano = "Quarto";
+                return "Quarto";
             }
-            return Plano;
+            return "Não definido";
 
             
         }

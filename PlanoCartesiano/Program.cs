@@ -15,8 +15,8 @@ namespace PlanoCartesiano
 
             Cartesiano param = new Cartesiano(x,y);
 
-            param.Parametros();
-            Console.WriteLine(param.Plano);
+            
+            Console.WriteLine(param.Parametros());
             
         }
     }
