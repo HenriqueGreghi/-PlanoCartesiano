@@ -1,0 +1,14 @@
+C:\Users\017557631\source\repos\PlanoCartesiano\PlanoCartesiano\bin\Debug\netcoreapp3.1\PlanoCartesiano.exe
+C:\Users\017557631\source\repos\PlanoCartesiano\PlanoCartesiano\bin\Debug\netcoreapp3.1\PlanoCartesiano.deps.json
+C:\Users\017557631\source\repos\PlanoCartesiano\PlanoCartesiano\bin\Debug\netcoreapp3.1\PlanoCartesiano.runtimeconfig.json
+C:\Users\017557631\source\repos\PlanoCartesiano\PlanoCartesiano\bin\Debug\netcoreapp3.1\PlanoCartesiano.runtimeconfig.dev.json
+C:\Users\017557631\source\repos\PlanoCartesiano\PlanoCartesiano\bin\Debug\netcoreapp3.1\PlanoCartesiano.dll
+C:\Users\017557631\source\repos\PlanoCartesiano\PlanoCartesiano\bin\Debug\netcoreapp3.1\PlanoCartesiano.pdb
+C:\Users\017557631\source\repos\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.csproj.AssemblyReference.cache
+C:\Users\017557631\source\repos\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017557631\source\repos\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.AssemblyInfoInputs.cache
+C:\Users\017557631\source\repos\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.AssemblyInfo.cs
+C:\Users\017557631\source\repos\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.csproj.CoreCompileInputs.cache
+C:\Users\017557631\source\repos\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.dll
+C:\Users\017557631\source\repos\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.pdb
+C:\Users\017557631\source\repos\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.genruntimeconfig.cache
